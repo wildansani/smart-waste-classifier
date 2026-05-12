@@ -9,6 +9,8 @@ Dataset
 - **Total gambar**: 25.077 gambar
 - **Kelas**: Organik dan Anorganik
 - **Distribusi**: Seimbang (50:50)
+- Link Data Set
+- https://www.kaggle.com/datasets/techsash/waste-classification-data?resource=download
 
 
 
